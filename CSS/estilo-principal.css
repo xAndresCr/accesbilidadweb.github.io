@@ -32,14 +32,19 @@ h2{
     max-width: 100%;
     height: auto;       
 }
-.container-principios{
+.container-beneficios{
     width: 40%;
     margin: 0 auto;
     margin-bottom: 20px
 }
-.container-principios img{
+.container-beneficios img{
     width: 100%; 
     height: auto; 
+}
+.container-ejemplos{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 20px
 }
 .navbar{
     width: 100%;
